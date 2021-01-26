@@ -1,4 +1,7 @@
-# Perf tests for the new Bonita Applications
+# Performance tests for the new Bonita Applications
+
+This repository was created in order to execute performance tests on the new Bonita Applications.
+It uses [playwright](https://github.com/microsoft/playwright), a library that lets you use the browser tools to get informations about the performance metrics, which can be found [here](https://web.dev/metrics/).
 
 ## Dependencies
 
